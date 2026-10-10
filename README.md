@@ -51,4 +51,4 @@ I am interested in bioinformatics, biomedical data science, scientific software,
 
 ## Contact
 
-[Linkedin](www.linkedin.com/in/gaith-korchid-48bb181a7) · [Email](mailto:korchid2000gaith@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gaith-korchid-48bb181a7/) · [Email](mailto:korchid2000gaith@gmail.com)
