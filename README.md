@@ -49,6 +49,12 @@ For genomics and R roles, start with Yeast WGS and Viral Genome Comparator. For 
 
 I am interested in bioinformatics, biomedical data science, scientific software, research engineering and relevant R&D opportunities.
 
+## Volunteer consulting methodology
+
+For nonprofit CRM, database, migration, and reporting projects, I use a structured data-first approach focused on requirements, data modeling, migration validation, reporting, documentation, and maintainable handoff.
+
+**[Read my CRM & Data Systems Methodology](./CRM_DATA_SYSTEMS_METHODOLOGY.md)**
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/gaith-korchid-48bb181a7/) · [Email](mailto:korchid2000gaith@gmail.com)
